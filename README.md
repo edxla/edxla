@@ -1,4 +1,4 @@
 - 👋 Hola, soy @edxla
-- Estoy interesado en desarollar aplicaciones.
+- Estoy interesado en desarollar aplicaciones aplicando metedologias aguiles.
 
-Practicante en desarrollo de aplicaciones moviles
+Practicante en desarrollo de aplicaciones Java
